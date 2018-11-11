@@ -15,7 +15,7 @@
 	<properties>
 		<maven.source-version>1.8</maven.source-version>
 		<maven.target-version>1.8</maven.target-version>
-		<restlet-version>2.3.7</restlet-version>
+		<restlet-version>2.3.12</restlet-version>
         <restlet.json-version>2.3.0</restlet.json-version>
         <hemcrest-version>1.3</hemcrest-version>
         <junit-version>4.12</junit-version>
